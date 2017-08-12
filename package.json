@@ -1,0 +1,20 @@
+{
+  "name": "react-inner-html",
+  "version": "1.0.0",
+  "description": "A little helper for simpler dangerouslySetInnerHTML",
+  "main": "react-inner-html.js",
+  "license": "MIT",
+  "author": {
+    "name": "Max Shishkin"
+  },
+  "homepage": "https://github.com/angryobject/react-inner-html",
+  "keywords": [
+    "react",
+    "html",
+    "dangerouslySetInnerHTML"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/angryobject/react-inner-html"
+  }
+}
