@@ -1,6 +1,6 @@
 {
   "name": "react-inner-html",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A little helper for simpler dangerouslySetInnerHTML",
   "license": "MIT",
   "main": "react-inner-html.cjs.js",
